@@ -1,2 +1,2 @@
 # linealg-book-solutions
-Solutions for linear algebra book questions
+Tests regarding Solutions for linear algebra book questions
